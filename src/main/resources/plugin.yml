@@ -1,0 +1,4 @@
+name: EndRealm
+version: '${project.version}'
+main: me.quartz.endrealm.EndRealm
+api-version: '1.20'
